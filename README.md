@@ -16,7 +16,7 @@ In this case study, I analysed inventory and sales data using MySQL to determine
 
 ## Key Findings
 
-### 1. Warehouse Utilization Analysis
+### 1. Warehouse Utilisation Analysis
 After querying the total inventory per facility, I identified **Warehouse South** as the prime candidate for closure.
 * **Warehouse South** currently holds 79,380 units, the lowest volume of all facilities (≈36% of Warehouse East, the largest facility at 219,183 units).
 
