@@ -1,4 +1,4 @@
--- 1. Calculate how full each warehouse is
+-- Objective 1. Calculate how full each warehouse is
 SELECT 
     w.warehouseCode, 
     w.warehouseName, 
