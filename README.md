@@ -1,5 +1,11 @@
 # Supply Chain Optimisation: Warehouse Consolidation Analysis
 
+---
+
+This case study is based on a publicly available  Coursera dataset and prompt. The focus here is on analytical approach and decision reasoning.
+
+---
+
 ## Project Overview
 **Mint Classics**, a retailer of classic model cars, is facing high storage costs and looking to close one of its four storage facilities. 
 
